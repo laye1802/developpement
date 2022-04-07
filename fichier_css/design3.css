@@ -3,7 +3,7 @@
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
-    height: 70vh;
+    height: 50%;
 }
 .bloc4{
     background-color: #F2F2F2;

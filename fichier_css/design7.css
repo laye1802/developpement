@@ -4,6 +4,7 @@
      height:75%;
      box-shadow: #E1E1E1 3px 3px 3px 3px;
      background-color: #FFFFFF;
+     z-index: 1;
 }
 #bandeau{
     width: 100%;
@@ -33,11 +34,11 @@ footer{
     color: #FFFFFF;
 }
 .icon7{
-    font-size: 30px;
-    color: #1C1C20;
     background-color: #FFFFFF;
     border-radius: 50%;
-    padding: 5px;
+    padding: 2px;
+    width: 40%;
+    height: 40%;
 }
 .icon7:hover{
     background-color: #F55262;
